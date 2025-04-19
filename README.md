@@ -1,7 +1,8 @@
 <p align="left">
  <img src= "https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" height=22 width=110>
  <img src="https://badges.frapsoft.com/bash/v1/bash.png?v=103)](https://github.com/ellerbrock/open-source-badges">
- <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" height=22 width=110>
+ <img src="https://img.shields.io/badge/NativeScript-3655FF?style=for-the-badge&logo=NativeScript&logoColor=black" height=22 width=110>
+ <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height=22 width=110>
 
 # Ultimate List of Linux bash commands
 
